@@ -5,7 +5,7 @@ Currently diving into app development, web tools, and learning new technologies 
 
 🔭 Currently working on: learning PowerPlatform and building small tools
 
-🌱 Interested in: creative coding, UI/UX, automation  
+🌱 Interested in: low code solutions, UI/UX, automation  
 
 
 
